@@ -43,4 +43,15 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: #eaeded;
+  min-height: 100vh;
+}
+
+.items_row {
+  display: flex;
+  margin-top: 5rem;
+}
+
+.body {
+  background-color: #eaeded;
 }
